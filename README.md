@@ -2,19 +2,17 @@
 
 ### 📊 End-to-End Business-Focused Data Analytics Project using SQL & Power BI
 
----
-
 ## 🏢 Company Overview
 
 AtliQ Mart is a large retail chain operating more than 50 supermarkets across South India, primarily dealing in FMCG products. The company runs seasonal promotional campaigns to boost sales and customer engagement. During Diwali 2023 and Sankranti 2024, AtliQ Mart launched multiple promotions across all stores. These promotions were applied to AtliQ branded products to increase both revenue and volume. The management wanted to evaluate the effectiveness of these campaigns. This analysis helps the company improve its future promotional strategies and pricing decisions.
 
----
+
 
 ## 📌 Problem Statement
 
 The Sales Director wanted a clear understanding of which promotional strategies actually worked and which failed. The key objective was to analyze the impact of promotions on both revenue and units sold. The analysis needed to identify top-performing and underperforming stores, cities, and product categories. Additionally, the company wanted to compare different promotion types such as BOGOF, discounts, and cashback. The final goal was to provide actionable insights that could improve future campaign planning. This project simulates a real-world business scenario where data-driven decisions are critical. :contentReference[oaicite:0]{index=0}
 
----
+
 
 ## 📂 Data Overview
 
@@ -28,14 +26,14 @@ retail_sales.db: Contains fact tables (fact_events) and dimension tables (dim_ca
 It is fully accessible on the Codebasics website and can be viewed via the following link:
 [https://codebasics.io/challenge/codebasics-resume-project-challenge](https://codebasics.io/challenges/codebasics-resume-project-challenge/12)
 
----
+
 
 ## 🛠️ Tools & Technologies
 
 * Data Visualization : Power BI
 * Data Analysis : SQL Server, DAX
 
----
+
 
 ## 🧹 Data Cleaning & Transformations
 
@@ -48,26 +46,18 @@ Here is your content converted into clean bullet points:
 * Created derived metrics such as **Incremental Revenue**, **Incremental Units**, **IR %**, and **ISU %**
 * Applied transformation logic to ensure the dataset reflects real business scenarios accurately
 
----
+
 
 ## 📊 Reports & Analysis
 
-SQL was used to answer key business questions and generate structured reports. Ad-hoc queries included identifying high-value products under BOGOF, counting stores by city, and comparing campaign-wise revenue. Category-level analysis helped rank performance based on ISU %. Product-level analysis identified top and bottom performers using IR %. These queries ensured that the analysis was not just visual but also backed by strong SQL logic. The outputs directly supported business decision-making requirements. :contentReference[oaicite:1]{index=1}
+SQL was used to answer key business questions and generate structured reports. Ad-hoc queries included identifying high-value products under BOGOF, counting stores by city, and comparing campaign-wise revenue. Category-level analysis helped rank performance based on ISU %. Product-level analysis identified top and bottom performers using IR %. These queries ensured that the analysis was not just visual but also backed by strong SQL logic. The outputs directly supported business decision-making requirements.
 
----
-
-
-## 📊 Dashboard Pages
-
-The Power BI dashboard is divided into five well-structured pages for clarity and usability. The Home page provides navigation and high-level KPIs for quick access. The Promotion Effectiveness Overview summarizes overall campaign performance. The Store & City Performance page highlights geographic variations in performance. The Promotion Strategy Analysis page compares different promotion types in detail. The Product & Category Performance page provides deep insights into product-level behavior. Each page is designed to answer a specific business question.
-
----
 
 ## 🌐 Live Dashboard
 
 🔗 **[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGZmMTFjYTktNTVlZS00YmNhLTk2OGItOTMwNWFjYmM2ZTM3IiwidCI6ImVjMTU1NWRlLTlmMDAtNDQ1OS05MDA3LTUxNDc2NDQ3MDIwNyJ9)**
 
----
+
 
 ## 💡 Key Insights
 
@@ -78,7 +68,7 @@ The Power BI dashboard is divided into five well-structured pages for clarity an
 * Personal Care category consistently underperformed, indicating weak promotional effectiveness.
 * These insights clearly differentiate which strategies should be scaled or avoided.
 
----
+
 
 ## 🎯 Recommendations
 
@@ -89,7 +79,7 @@ The Power BI dashboard is divided into five well-structured pages for clarity an
 * Underperforming categories like personal care should be re-evaluated for pricing and promotion strategy. 
 * These recommendations directly align with improving business profitability and campaign effectiveness.
 
----
+
 
 
 
